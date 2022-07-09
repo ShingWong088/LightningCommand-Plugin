@@ -1,0 +1,10 @@
+main: com.ShingWong08.Main
+version: 1.0.0
+name: LightningCommand
+commands:
+  lightning:
+    description: Lightning
+    usage: /<command>
+    aliases:
+      - lightningbolt
+      - smite
